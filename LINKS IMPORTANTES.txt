@@ -1,0 +1,20 @@
+Documentación React:
+
+https://create-react-app.dev/docs/getting-started
+
+Archivos robots.txt
+
+https://developers.google.com/search/docs/advanced/robots/intro?hl=es&visit_id=637744481188362701-3633622014&rd=1
+
+PWA Progressive Web App:
+
+https://developers.google.com/web/ilt/pwa
+
+onClick
+
+https://es.reactjs.org/docs/events.html
+
+Jest
+
+https://jestjs.io/
+
